@@ -40,17 +40,13 @@
 
 ###
 
-<img align="right" height="250" src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/bec5df19-85ed-44d7-a23d-7e3204c50f9d/DallEGeneratedImages/dalle-617e498f-45de-489e-bd48-25ba998242d20251658599237057877600.jpg&dcHint=BrazilSouth&fileToken=043f4a83-936e-4338-ac7a-e8ad6e200ac4"  />
-
-###
-
 <p align="left">especializado em criar experiências digitais modernas, eficientes e funcionais. Tenho experiência em projetos diversos, como e-commerces, dashboards e desenvolvimento de funcionalidades, utilizando frameworks de JavaScript e suas respectivas bibliotecas. Embora possua sólidos conhecimentos em React/Next.js, também já desenvolvi projetos com Angular e Vue.js. Meu trabalho abrange construção, estilização, integração com APIs e otimização de performance.</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelraatz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelraatz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelraatz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelraatz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
