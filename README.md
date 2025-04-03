@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">especializado em criar experiências digitais modernas, eficientes e funcionais. Tenho experiência em projetos diversos, como e-commerces, dashboards e desenvolvimento de funcionalidades, utilizando frameworks de JavaScript e suas respectivas bibliotecas. Embora possua sólidos conhecimentos em React/Next.js, também já desenvolvi projetos com Angular e Vue.js. Meu trabalho abrange construção, estilização, integração com APIs e otimização de performance.</p>
+<img align="left" height="230" src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/bec5df19-85ed-44d7-a23d-7e3204c50f9d/DallEGeneratedImages/dalle-617e498f-45de-489e-bd48-25ba998242d20251658599237057877600.jpg&dcHint=BrazilSouth&fileToken=043f4a83-936e-4338-ac7a-e8ad6e200ac4"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -30,16 +30,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelraatz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelraatz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelraatz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">especializado em criar experiências digitais modernas, eficientes e funcionais. Tenho experiência em projetos diversos, como e-commerces, dashboards e desenvolvimento de funcionalidades, utilizando frameworks de JavaScript e suas respectivas bibliotecas. Embora possua sólidos conhecimentos em React/Next.js, também já desenvolvi projetos com Angular e Vue.js. Meu trabalho abrange construção, estilização, integração com APIs e otimização de performance.</p>
 
 ###
 
@@ -53,6 +50,12 @@
   <a href="https://wa.me/5511954499675" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelraatz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
