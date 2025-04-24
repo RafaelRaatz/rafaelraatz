@@ -2,11 +2,10 @@
 
 ###
 
-<img align="left" height="230" src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/bec5df19-85ed-44d7-a23d-7e3204c50f9d/DallEGeneratedImages/dalle-617e498f-45de-489e-bd48-25ba998242d20251658599237057877600.jpg&dcHint=BrazilSouth&fileToken=043f4a83-936e-4338-ac7a-e8ad6e200ac4"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -30,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelraatz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
