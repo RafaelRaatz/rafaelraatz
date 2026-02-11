@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Rafael e eu sou Desenvolvedor Front-End 👨‍💻</h2>
+<h2 align="center">Olá 👋! Meu nome é Rafael e eu sou Desenvolvedor de Software 👨‍💻</h2>
 
 ###
 
@@ -35,7 +35,11 @@
 
 ###
 
-<p align="center">especializado em criar experiências digitais modernas, eficientes e funcionais. Tenho experiência em projetos diversos, como e-commerces, dashboards e desenvolvimento de funcionalidades, utilizando frameworks de JavaScript e suas respectivas bibliotecas. Embora possua sólidos conhecimentos em React/Next.js, também já desenvolvi projetos com Angular e Vue.js. Meu trabalho abrange construção, estilização, integração com APIs e otimização de performance.</p>
+<p align="center">Me chamo Rafael e sou Desenvolvedor de Software, iniciei minha carreira como Front-end e, ao longo da minha trajetória, expandi meus conhecimentos para o Back-end.
+
+valorizo tanto o aprimoramento técnico quanto o desenvolvimento de soft skills, acredito que em tecnologia o aprendizado nunca tem fim, por isso estou sempre em busca de aprender mais.
+
+Meu objetivo é atuar em grandes projetos, contribuindo com ideias e soluções, me tornando um profissional cada vez mais completo e uma pessoa melhor a cada dia.</p>
 
 ###
 
@@ -53,8 +57,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelraatz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
