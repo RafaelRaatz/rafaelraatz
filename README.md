@@ -1,8 +1,16 @@
 
 <h1 align="center">Desenvolvedor de Software 👨‍💻</h1>
 
-
+<p align="center">
+  <h3>💡 Sobre mim </h3>
+Me chamo Rafael e sou Desenvolvedor de Software, iniciei minha carreira como Front-end e, ao longo da minha trajetória, expandi meus conhecimentos para o Back-end.
+<br/><br/>
+valorizo tanto o aprimoramento técnico quanto o desenvolvimento de soft skills, acredito que em tecnologia o aprendizado nunca tem fim, por isso estou sempre em busca de aprender mais.
+<br/><br/>
+Meu objetivo é atuar em grandes projetos, contribuindo com ideias e soluções, me tornando um profissional cada vez mais completo e uma pessoa melhor a cada dia.
+</p>
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
@@ -24,19 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
 </div>
 
-
-<p align="center">
-  <h2>💡 Sobre mim </h2>
-Me chamo Rafael e sou Desenvolvedor de Software, iniciei minha carreira como Front-end e, ao longo da minha trajetória, expandi meus conhecimentos para o Back-end.
-<br/><br/>
-valorizo tanto o aprimoramento técnico quanto o desenvolvimento de soft skills, acredito que em tecnologia o aprendizado nunca tem fim, por isso estou sempre em busca de aprender mais.
-<br/><br/>
-Meu objetivo é atuar em grandes projetos, contribuindo com ideias e soluções, me tornando um profissional cada vez mais completo e uma pessoa melhor a cada dia.
-</p>
+---
 
 
 <div align="center">
-  <H2> 🌐 Portfólio | 📬 Contato   </H2>  
+  <H3> 🌐 Portfólio | 📬 Contato   </H3>  
 <a href="https://vercel.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Deploy%20on%20Vercel&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="vercel logo" />
 </a>
@@ -51,4 +51,6 @@ Meu objetivo é atuar em grandes projetos, contribuindo com ideias e soluções,
   </a>
 
 </div>
+
+
 
